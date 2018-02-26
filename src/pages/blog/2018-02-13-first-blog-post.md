@@ -7,6 +7,4 @@ description: this description describes the first test post
 ---
 And here we are, writing our first blog post, as a test
 
-
-
 ![a placeholder bill](http://fillmurray.com/g/200/300)
